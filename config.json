@@ -1,0 +1,22 @@
+{
+
+
+  "params":
+{
+"local_server": "True",
+  "local_uri": "mysql+pymysql://root:@localhost/kunauli",
+  "prod_uri": "mysql+pymysql://root:@localhost/kunauli",
+  "gmail-user":"nishantsingh2jan1998@gmail.com",
+   "gmail-password": "9162306344",
+  "about-text": "Hi my name is Nishant singh i am Programmer ",
+
+  "no_of_post": 5,
+
+  "admin_name": "nishu",
+  "admin_pass": "nishu",
+  "upload_location": "C:\\Users\\Nishant Singh\\PycharmProjects\\flask"
+
+}
+
+
+}
